@@ -6,8 +6,8 @@ I am also currently enrolled as a Masters student at the University of Pisa stud
 
 ## 🔭 Current Projects
 
-- [Project 1](https://github.com/yourusername/project1)
-- [Project 2](https://github.com/yourusername/project2)
+- [Solidity Pet Shop Project ](https://github.com/jonamarkin/pet-shop-solidity)
+- [Attendance App](https://github.com/jonamarkin/iAttend)
 
 ## 🌱 Currently Learning
 
@@ -29,15 +29,14 @@ I am also currently enrolled as a Masters student at the University of Pisa stud
 
 You can reach me on:
 
-- Email: [jonamarkin@gmail.com]
-- LinkedIn: [your LinkedIn profile URL]
-- Twitter: [your Twitter handle URL]
-- Instagram: [your Instagram handle URL]
-- Website: [your personal website URL]
+- Email: jonamarkin@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/atomarkin/)
+- [Twitter](https://twitter.com/mr_markin1)
+- [Instagram](https://www.instagram.com/_mr_markin_/)
 
 ## ⚡ Fun fact
 
-[Insert fun fact here]
+I sing! I am a tenor. I love choral and classical music!
 
 ## 📈 GitHub Stats
 
@@ -57,9 +56,7 @@ You can reach me on:
 - Flutter
 
 ## 📚 Latest Blog Posts
-
-- [Blog Post 1](https://yourblog.com/blogpost1)
-- [Blog Post 2](https://yourblog.com/blogpost2)
+I will start writing and sharing my knowledge very soon! Follow me and stay tuned!
 
 Thanks for stopping by!
 
