@@ -29,6 +29,9 @@ I am also currently enrolled as a Masters student at the University of Pisa stud
 
 You can reach me on:
 
+| [![Twitter](https://i.imgur.com/Qn7Iv8p.png)](https://twitter.com/yourusername) | [![GitHub](https://i.imgur.com/fEp7OvR.png)](https://github.com/yourusername) | [![LinkedIn](https://i.imgur.com/gzKrlgV.png)](https://www.linkedin.com/in/yourusername/) | [![Instagram](https://i.imgur.com/FfE9BKV.png)](https://www.instagram.com/yourusername/) | [![Facebook](https://i.imgur.com/7Ds63ey.png)](https://www.facebook.com/yourusername/) | [![YouTube](https://i.imgur.com/5S26Fzn.png)](https://www.youtube.com/channel/yourchannelname) |
+|---|---|---|---|---|---|
+
 - Email: [jonamarkin@gmail.com]
 - LinkedIn: [your LinkedIn profile URL]
 - Twitter: [your Twitter handle URL]
