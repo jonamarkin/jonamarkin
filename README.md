@@ -1,11 +1,8 @@
-<p align="center">
-  <img src="https://github.com/Code-Dabblers/Code-Dabblers/blob/main/assets/header.gif" alt="Header">
-</p>
-
 
 # Hi there! 👋
 
-I'm [Your Name], a [Your Profession] based in [Your Location]. Welcome to my GitHub profile!
+I'm Jonathan Ato Markin, a software engineer based in Italy. Welcome to my GitHub profile!
+I am also currently enrolled as a Masters student at the University of Pisa studying Computer Science.
 
 ## 🔭 Current Projects
 
@@ -14,21 +11,25 @@ I'm [Your Name], a [Your Profession] based in [Your Location]. Welcome to my Git
 
 ## 🌱 Currently Learning
 
-- Skill 1
-- Skill 2
-- Skill 3
+- Python
+- Fastapi
+- Cloud Computing
+- Blockchain and Peer to Peer Systems
+- Solidity
 
 ## 💬 Ask me about
 
-- Topic 1
-- Topic 2
-- Topic 3
+- Java
+- Python
+- Backend Development
+- Algorithms
+- APIs
 
 ## 📫 How to reach me
 
 You can reach me on:
 
-- Email: [your email address]
+- Email: [jonamarkin@gmail.com]
 - LinkedIn: [your LinkedIn profile URL]
 - Twitter: [your Twitter handle URL]
 - Instagram: [your Instagram handle URL]
@@ -40,17 +41,20 @@ You can reach me on:
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonamarkin&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![Your Name's GitHub trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
+![Your Name's GitHub trophies](https://github-profile-trophy.vercel.app/?username=jonamarkin&theme=onedark)
 
 ## 🚀 Skills
 
-- Skill 1
-- Skill 2
-- Skill 3
+- Java
+- SpringBoot
+- Nodejs
+- Python
+- Fastapi
+- Flutter
 
 ## 📚 Latest Blog Posts
 
