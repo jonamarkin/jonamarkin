@@ -6,7 +6,7 @@ I am also currently enrolled as a Masters student at the University of Pisa stud
 
 ## 🔭 Current Projects
 
-- [Solidity Pet Shop Project ](https://github.com/jonamarkin/pet-shop-solidity)
+- [SRE Bootcamp Project](https://github.com/jonamarkin/student-management-api)
 - [Attendance App](https://github.com/jonamarkin/iAttend)
 
 ## 🌱 Currently Learning
@@ -56,7 +56,7 @@ I sing! I am a tenor. I love choral and classical music!
 - Flutter
 
 ## 📚 Latest Blog Posts
-I will start writing and sharing my knowledge very soon! Follow me and stay tuned!
+- [Getting Started With Spring Boot](https://dev.to/jonamarkin/spring-boot-basics-crafting-your-first-application-4kf3)
 
 Thanks for stopping by!
 
