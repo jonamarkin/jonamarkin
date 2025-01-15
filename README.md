@@ -2,7 +2,8 @@
 # Hi there! 👋
 
 I'm Jonathan Ato Markin, a software engineer based in Italy. Welcome to my GitHub profile! \
-I am also currently enrolled as a Masters student at the University of Pisa studying Computer Science.
+I currently work as an HPC-Cloud researcher at the University of Pisa. \
+I build other applications in my free time. 
 
 ## 🔭 Current Projects
 
