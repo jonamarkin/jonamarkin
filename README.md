@@ -11,6 +11,10 @@ I build other applications in my free time.
 - [Bookstore Microservices Project](https://github.com/jonamarkin/bookstore-microservices)
 - [OSE Calendar Project](https://github.com/jonamarkin/ose-calendar)
 
+## 📚 Latest Blog Posts
+- [Getting Started With Spring Boot](https://dev.to/jonamarkin/spring-boot-basics-crafting-your-first-application-4kf3)
+- [Local Development, Remote Data: Accessing Fly.io PostgreSQL from Your Java API](https://dev.to/jonamarkin/local-development-remote-data-accessing-flyio-postgresql-from-your-java-api-2jb5)
+
 ## 🌱 Currently Learning
 
 - Go
@@ -58,9 +62,7 @@ I sing! I am a tenor. I love choral and classical music!
 - Fastapi
 - Flutter
 
-## 📚 Latest Blog Posts
-- [Getting Started With Spring Boot](https://dev.to/jonamarkin/spring-boot-basics-crafting-your-first-application-4kf3)
-- [Local Development, Remote Data: Accessing Fly.io PostgreSQL from Your Java API](https://dev.to/jonamarkin/local-development-remote-data-accessing-flyio-postgresql-from-your-java-api-2jb5)
+
 
 Thanks for stopping by!
 
