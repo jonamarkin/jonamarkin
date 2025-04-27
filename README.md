@@ -9,6 +9,7 @@ I build other applications in my free time.
 
 - [SRE Bootcamp Project](https://github.com/jonamarkin/student-management-api)
 - [Bookstore Microservices Project](https://github.com/jonamarkin/bookstore-microservices)
+- [OSE Calendar Project](https://github.com/jonamarkin/ose-calendar)
 
 ## 🌱 Currently Learning
 
