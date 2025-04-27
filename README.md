@@ -8,15 +8,15 @@ I build other applications in my free time.
 ## 🔭 Current Projects
 
 - [SRE Bootcamp Project](https://github.com/jonamarkin/student-management-api)
-- [Attendance App](https://github.com/jonamarkin/iAttend)
+- [Bookstore Microservices Project](https://github.com/jonamarkin/bookstore-microservices)
 
 ## 🌱 Currently Learning
 
-- Python
-- Fastapi
+- Go
+- Kubernetes
 - Cloud Computing
-- Blockchain and Peer to Peer Systems
-- Solidity
+- High Performance Computing
+- Distributed Systems
 
 ## 💬 Ask me about
 
@@ -25,6 +25,7 @@ I build other applications in my free time.
 - Backend Development
 - Algorithms
 - APIs
+- Distributed Systems and HPC
 
 ## 📫 How to reach me
 
