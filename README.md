@@ -60,6 +60,7 @@ I sing! I am a tenor. I love choral and classical music!
 
 ## 📚 Latest Blog Posts
 - [Getting Started With Spring Boot](https://dev.to/jonamarkin/spring-boot-basics-crafting-your-first-application-4kf3)
+- [Local Development, Remote Data: Accessing Fly.io PostgreSQL from Your Java API](https://dev.to/jonamarkin/local-development-remote-data-accessing-flyio-postgresql-from-your-java-api-2jb5)
 
 Thanks for stopping by!
 
