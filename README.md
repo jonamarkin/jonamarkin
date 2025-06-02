@@ -6,9 +6,9 @@ I currently work as an HPC-Cloud researcher at the University of Pisa. \
 I build other applications in my free time. 
 
 ## 🔭 Current Projects
-
-- [SRE Bootcamp Project](https://github.com/jonamarkin/student-management-api)
-- [Bookstore Microservices Project](https://github.com/jonamarkin/bookstore-microservices)
+- [ToggleFox - Enterprise Feature Flag Management System](https://github.com/jonamarkin/togglefox)
+- [SRE Student Management System](https://github.com/jonamarkin/student-management-api)
+- [Bookstore Microservices](https://github.com/jonamarkin/bookstore-microservices)
 - [OSE Calendar Project](https://github.com/jonamarkin/ose-calendar)
 
 ## 📚 Latest Blog Posts
