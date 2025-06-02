@@ -17,11 +17,11 @@ I build other applications in my free time.
 
 ## 🌱 Currently Learning
 
-- Go
-- Kubernetes
-- Cloud Computing
 - High Performance Computing
 - Distributed Systems
+- Kubernetes
+- Cloud Computing
+- Go
 
 ## 💬 Ask me about
 
@@ -49,9 +49,6 @@ I sing! I am a tenor. I love choral and classical music!
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonamarkin&show_icons=true&theme=transparent)
 
-## 🏆 GitHub Trophies
-
-![Your Name's GitHub trophies](https://github-profile-trophy.vercel.app/?username=jonamarkin&theme=onedark)
 
 ## 🚀 Skills
 
@@ -61,6 +58,7 @@ I sing! I am a tenor. I love choral and classical music!
 - Python
 - Fastapi
 - Flutter
+- C++
 
 
 
