@@ -47,7 +47,7 @@ I sing! I am a tenor. I love choral and classical music!
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonamarkin&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonamarkin&show_icons=true&theme=transparent)
 
 ## 🏆 GitHub Trophies
 
