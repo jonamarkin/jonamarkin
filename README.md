@@ -6,6 +6,7 @@ I currently work as an HPC-Cloud researcher at the University of Pisa. \
 I build other applications in my free time. 
 
 ## 🔭 Current Projects
+- [E-Commerce Order Processing in Go](https://github.com/jonamarkin/e-commerce-order-processing)
 - [ToggleFox - Enterprise Feature Flag Management System](https://github.com/jonamarkin/togglefox)
 - [SRE Student Management System](https://github.com/jonamarkin/student-management-api)
 - [Bookstore Microservices](https://github.com/jonamarkin/bookstore-microservices)
