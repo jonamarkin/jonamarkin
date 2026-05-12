@@ -1,8 +1,8 @@
 
 # Hi there! 👋
 
-I'm Jonathan Ato Markin, a software engineer based in Italy. Welcome to my GitHub profile! \
-I currently work as an HPC-Cloud researcher at the University of Pisa. \
+I'm Jonathan Ato Markin, a PhD researcher and software engineer based in Sweden. Welcome to my GitHub profile! \
+I currently work as a Doctoral Student at the Lulea University of Technology. \
 I build other applications in my free time. 
 
 ## 🔭 Recent Projects
