@@ -6,6 +6,7 @@ I currently work as a Doctoral Student at the Lulea University of Technology. \
 I build other applications in my free time. 
 
 ## 🔭 Recent Projects
+- [PayCycl](https://paycycl.com)
 - [Building Custom Libfabric](https://github.com/jonamarkin/building_custom_libfabric)
 - [E-Commerce Order Processing in Go](https://github.com/jonamarkin/e-commerce-order-processing)
 - [ToggleFox - Enterprise Feature Flag Management System](https://github.com/jonamarkin/togglefox)
@@ -39,6 +40,7 @@ I build other applications in my free time.
 You can reach me on:
 
 - Email: jonamarkin@gmail.com
+- [Website](https://www.atomarkin.com/)
 - [LinkedIn](https://www.linkedin.com/in/atomarkin/)
 - [Twitter](https://twitter.com/mr_markin1)
 - [Instagram](https://www.instagram.com/_mr_markin_/)
@@ -47,14 +49,11 @@ You can reach me on:
 
 I sing! I am a tenor. I love choral and classical music!
 
-## 📈 GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonamarkin&show_icons=true&theme=transparent)
-
 
 ## 🚀 Skills
 
 - Java
+- Go
 - SpringBoot
 - Nodejs
 - Python
