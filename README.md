@@ -15,6 +15,8 @@ I build other applications in my free time.
 - [OSE Calendar Project](https://github.com/jonamarkin/ose-calendar)
 
 ## 📚 Latest Blog Posts
+- [FastMap: Real-Time IoT Anomaly Detection with Redis's Multi-Model Database](https://dev.to/jonamarkin/fastmap-real-time-iot-anomaly-detection-with-rediss-multi-model-database-3bg5)
+- [Harnessing Testcontainers for Reliable Integration Tests](https://github.com/jonamarkin/testcontainers-talk)
 - [Getting Started With Spring Boot](https://dev.to/jonamarkin/spring-boot-basics-crafting-your-first-application-4kf3)
 - [Local Development, Remote Data: Accessing Fly.io PostgreSQL from Your Java API](https://dev.to/jonamarkin/local-development-remote-data-accessing-flyio-postgresql-from-your-java-api-2jb5)
 
